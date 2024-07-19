@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DavideCamp
 - 👀 I’m interested in many things...
-- 🌱 I’m currently learning web dev
 - 📫 How to reach me davidecampana@icloud.com
 
 <!---
