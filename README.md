@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @DavideCamp
-- 👀 I’m interested in many things...
 - 📫 How to reach me davidecampana@icloud.com
 
 <!---
